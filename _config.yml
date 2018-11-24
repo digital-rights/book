@@ -1,0 +1,7 @@
+title: digital-rights.github.io/book
+description: A Book About The Internet & Human Rights
+show_downloads: true
+other:
+  link: URL
+plugins:
+  - jemoji
